@@ -1,6 +1,6 @@
 let num=20;
 if(num%2===0){
- console.losg("even")
+ console.log("even number")
 }else{
-console.log("odd");
+console.log("odd number");
 }
